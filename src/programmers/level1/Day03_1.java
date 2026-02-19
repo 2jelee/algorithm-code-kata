@@ -12,7 +12,7 @@ public class Day03_1 {
 
     public static void main(String[] args) {
         Solution sol = new Solution();
-        // test
+        // TEST
         int result = sol.solution(7, 3);
         System.out.println("result = " + result);
     }
