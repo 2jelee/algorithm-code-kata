@@ -11,7 +11,6 @@ public class Day05_1 {
             // String -> char[]
             char[] arr = toStr.toCharArray();
 
-
             for (int i = 0; i < arr.length; i++) {
                 answer = answer + (arr[i] - '0');
             }
